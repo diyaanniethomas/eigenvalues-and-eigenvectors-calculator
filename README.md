@@ -1,1 +1,1 @@
-# eigenvalues-and-eigenvectors-calculator
+This sample program helps to calculate eigenvalues and eigenvecors of a 3x3 matrix.
